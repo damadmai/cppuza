@@ -1,9 +1,3 @@
 Das PSE
 
-H
-Li
-Na
-K
-Rb
-Cs
-Fr
+16 Gruppe: O S Se Te Po
