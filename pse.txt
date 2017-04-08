@@ -1,3 +1,5 @@
 Das PSE
 
 1.HG: Li, Na, K
+Erdalkalimetalle: Be Mg Ca Sr Ba Ra
+16 Gruppe: O S Se Te Po
