@@ -1,4 +1,6 @@
 Das PSE
 
 Erdalkalimetalle: Be Mg Ca Sr Ba Ra
+1.HG: Li, Na, K
+16 Gruppe: O S Se Te Po
 Halogene: F Cl Br I At
