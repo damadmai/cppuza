@@ -1,3 +1,4 @@
 Das PSE
 
 Erdalkalimetalle: Be Mg Ca Sr Ba Ra
+Halogene: F Cl Br I At
