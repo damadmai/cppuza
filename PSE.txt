@@ -2,5 +2,6 @@ Das PSE
 
 01.HG: H Li Na K Rb Cs Fr
 02.HG: Be Ca Mg Sr Ba Ra
+15.HG: ?
 16.HG: O S Se Te Po
 17.HG: F Cl Br I At
